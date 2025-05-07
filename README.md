@@ -15,7 +15,7 @@
 - I love 🏎️ 🛻 🏍️ 🛩️ 🚁 🚴‍♂️ 🏕️ ⛰️ 💻 🐧 in no particular order, although cars have been a part of my life since I was a kid.
 - ♂️ My pronouns are **he/him** but I'm not picky 😜
 - 🏠 I'm based in **Fresno, CA** and I love it here.
-- 💬 Find me on [Instagram](https://www.instagram.com/funcychaos) or [BlueSky](https://bsky.app/profile/funcychaos.com)
+- 💬 Find me on [Instagram](https://www.instagram.com/funcychaos) or [BlueSky](https://bsky.app/profile/decorpo.co)
 - 🛠️ You will most often find me working on **WordPress** sites, a car, or at the local **HackerSpace**
 - #️⃣ #C #Linux #Maker #Fresno #DIY #Cars #Build
 
