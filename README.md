@@ -4,7 +4,7 @@
 
 💪🏼 **My Biggest Projects:**
 
-- 🏡 [Tower Porch Fest](https://www.towerporchfest.org)          Lead Developer, a map oriented website for the annual Tower Porch Fest event!
+- 🏡 [Tower Porch Fest](https://towerporchfest.org)          Lead Developer, a map oriented website for the annual Tower Porch Fest event!
 - 👋 [Slap Counter](https://github.com/funcyChaos/count_slaps)   This plugin started as a joke but as it became more popular it had to become much more robust.
 - 🕺 [Fresno Swing Dance](https://www.fresnoswingdance.com)      Serving as a landing page and calendar tool for Lindy Hop Dancers in Fresno!
 
